@@ -1,13 +1,13 @@
 # 🌸 Hello! I'm **Prajwal Nimbalkar** 🌸
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/praju-khanal-a66062180/)](https://www.linkedin.com/in/praju-khanal-a66062180/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat-square&logo=github&logoColor=white&link=https://github.com/Prajwaln07/)](https://github.com/Prajwaln07/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prajwalnimbalkar/)](https://www.linkedin.com/in/prajwalnimbalkar/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat-square&logo=github&logoColor=white&link=https://github.com/prajwaln07/)](https://github.com/prajwaln07/)
 
 ---
 
 ### 👩‍💻 About Me
 
-Hello there! I'm a **MERN stack developer** with a drive to craft **dynamic** and **interactive** web experiences. I’m all about tackling new challenges and expanding my skillset to bring creative ideas to life! 🎨✨ Whether it’s backend logic or frontend magic, I’m always ready to dive in. 
+Hello there! I'm a **MERN stack developer** passionate about building **innovative** and **user-friendly** web applications. From seamless backends to engaging frontends, I thrive on creating impactful digital experiences! 🌟✨ 
 
 ---
 
@@ -36,20 +36,21 @@ Hello there! I'm a **MERN stack developer** with a drive to craft **dynamic** an
 ### 🏆 **GitHub Trophies**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Praju2002&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=prajwaln07&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophy"/>
 </p>
 
 ---
+
 ### 🌟 **Open Source Contributions**
-[![An image of @praju2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prajwaln07)](https://holopin.io/@prajwaln07)
+[![An image of @prajwaln07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prajwaln07)](https://holopin.io/@prajwaln07)
 
 ---
 
 ### 🌟 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prajwaln07&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwaln07&layout=compact&theme=radical" alt="Top Languages" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prajwaln07&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwaln07&layout=compact&theme=radical" alt="Top Languages" width="300"/>
 </p>
 
 ---
@@ -57,7 +58,7 @@ Hello there! I'm a **MERN stack developer** with a drive to craft **dynamic** an
 ### 🔥 **GitHub Streak**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwaln07&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwaln07&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
