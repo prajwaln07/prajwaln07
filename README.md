@@ -1,19 +1,75 @@
-<h1 align="center">Hi 👋, I'm prajwal nimbalkar</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+# 🌸 Hello! I'm **Prajwal Nimbalkar** 🌸
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwaln07&label=Profile%20views&color=0e75b6&style=flat" alt="prajwaln07" /> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/praju-khanal-a66062180/)](https://www.linkedin.com/in/praju-khanal-a66062180/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat-square&logo=github&logoColor=white&link=https://github.com/Prajwaln07/)](https://github.com/Prajwaln07/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajwaln07" alt="prajwaln07" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### 👩‍💻 About Me
+
+Hello there! I'm a **MERN stack developer** with a drive to craft **dynamic** and **interactive** web experiences. I’m all about tackling new challenges and expanding my skillset to bring creative ideas to life! 🎨✨ Whether it’s backend logic or frontend magic, I’m always ready to dive in. 
+
+---
+
+### 💻 **Technologies & Tools**
+
+#### **Frontend**
+![React](https://img.shields.io/badge/-React-blueviolet?style=flat-square&logo=react)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+#### **Backend**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-404D59?style=flat-square)
+
+#### **Database**
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+#### **Others**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/-REST%20APIs-ff69b4?style=flat-square&logo=api&logoColor=white)
+
+---
+
+### 🏆 **GitHub Trophies**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Praju2002&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophy"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+### 🌟 **Open Source Contributions**
+[![An image of @praju2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/praju2002)](https://holopin.io/@praju2002)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwaln07&show_icons=true&locale=en&layout=compact" alt="prajwaln07" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwaln07&show_icons=true&locale=en" alt="prajwaln07" /></p>
+### 🌟 **GitHub Stats**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwaln07&" alt="prajwaln07" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Praju2002&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praju2002&layout=compact&theme=radical" alt="Top Languages" width="300"/>
+</p>
+
+---
+
+### 🔥 **GitHub Streak**
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praju2002&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🌈 **Let’s Connect!**
+
+I’m always excited to meet new people and collaborate on interesting projects! Feel free to reach out:
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/praju-khanal-a66062180/)
+
+Let’s make an impact together! 💖✨
+
+---
+
+✨ *“Creating possibilities, one line of code at a time!”* ✨
