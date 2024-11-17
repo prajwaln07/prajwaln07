@@ -42,8 +42,8 @@ Hello there! I'm a **MERN stack developer** passionate about building **innovati
 ---
 ### 🌟 **Open Source Contributions**
 <p align="center">
-  <a href="https://holopin.io/@prajwaln07">
-    <img src="https://holopin.me/prajwaln07" alt="An image of Prajwal's Holopin badges" width="600"/>
+  <a href="https://www.holopin.io/@prajwaln07#badges">
+    <img src="https://www.holopin.io/@prajwaln07#badges" alt="An image of Prajwal's Holopin badges" width="600"/>
   </a>
 </p>
 
