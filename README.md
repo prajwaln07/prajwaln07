@@ -41,15 +41,15 @@ Hello there! I'm a **MERN stack developer** with a drive to craft **dynamic** an
 
 ---
 ### 🌟 **Open Source Contributions**
-[![An image of @praju2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/praju2002)](https://holopin.io/@praju2002)
+[![An image of @praju2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prajwaln07)](https://holopin.io/@prajwaln07)
 
 ---
 
 ### 🌟 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praju2002&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praju2002&layout=compact&theme=radical" alt="Top Languages" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prajwaln07&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwaln07&layout=compact&theme=radical" alt="Top Languages" width="300"/>
 </p>
 
 ---
@@ -57,7 +57,7 @@ Hello there! I'm a **MERN stack developer** with a drive to craft **dynamic** an
 ### 🔥 **GitHub Streak**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praju2002&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwaln07&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -66,7 +66,7 @@ Hello there! I'm a **MERN stack developer** with a drive to craft **dynamic** an
 
 I’m always excited to meet new people and collaborate on interesting projects! Feel free to reach out:
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/praju-khanal-a66062180/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/prajwalnimbalkar/)
 
 Let’s make an impact together! 💖✨
 
