@@ -58,12 +58,6 @@ Hello there! I'm a **MERN stack developer** passionate about building **innovati
 
 ---
 
-### 🔥 **GitHub Streak**  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwaln07&theme=radical" alt="GitHub Streak"/>
-</p>  
-
----
 
 ### 🌈 **Let’s Connect!**  
 I’m always excited to meet new people and collaborate on interesting projects! Feel free to reach out:  
